@@ -2,8 +2,6 @@
   "name": "Avinash Bhor Photography",
   "short_name": "AB Photography",
   "description": "Professional photography portfolio showcasing the work of Avinash Bhor",
-  "start_url": "/",
-  "scope": "/",
   "icons": [
     {
       "src": "./web-app-manifest-192x192.png",
