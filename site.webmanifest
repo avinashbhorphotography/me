@@ -1,21 +1,26 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "Avinash Bhor Photography",
+  "short_name": "AB Photography",
+  "description": "Professional photography portfolio showcasing the work of Avinash Bhor",
+  "start_url": "/",
+  "scope": "/",
   "icons": [
     {
       "src": "./web-app-manifest-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
     },
     {
       "src": "./web-app-manifest-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
     }
   ],
-  "theme_color": "#ffffff",
+  "theme_color": "#000000",
   "background_color": "#ffffff",
-  "display": "standalone"
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "lang": "en"
 }
