@@ -1,61 +1,61 @@
 [
   {
     "id": 1,
-    "image": "/instagram/01.jpg",
+    "image": "./instagram/01.jpg",
     "caption": "Random clicks - Capturing stories",
     "link": "https://www.instagram.com/p/DMVUEf_oY1G/?img_index=1"
   },
   {
     "id": 2,
-    "image": "/instagram/02.jpg",
+    "image": "./instagram/02.jpg",
     "caption": "Model portrait session - Professional headshots",
     "link": "https://www.instagram.com/p/DBdhL4jp9Rb/"
   },
   {
     "id": 3,
-    "image": "/instagram/03.jpg",
+    "image": "./instagram/03.jpg",
     "caption": "Fashion photography",
     "link": "https://www.instagram.com/p/C0mB1f3Iy4Q/?img_index=2"
   },
   {
     "id": 4,
-    "image": "/instagram/04.jpg",
+    "image": "./instagram/04.jpg",
     "caption": "Candid moments - Cultural moments",
     "link": "https://www.instagram.com/p/CqLI1pqDg7g/?img_index=1"
   },
   {
     "id": 5,
-    "image": "/instagram/05.jpg",
+    "image": "./instagram/05.jpg",
     "caption": "Creative photography - Cultural moments",
     "link": "https://www.instagram.com/p/ChII5spD-6T/"
   },
   {
     "id": 6,
-    "image": "/instagram/06.jpg",
+    "image": "./instagram/06.jpg",
     "caption": "Candid moments - Capturing emotions",
     "link": "https://www.instagram.com/p/CM_i2VjBC7V/"
   },
   {
     "id": 7,
-    "image": "/instagram/07.jpg",
+    "image": "./instagram/07.jpg",
     "caption": "Shwetali Wedding",
     "link": "https://www.instagram.com/p/C2Z2D7nteJh/?img_index=1"
   },
   {
     "id": 8,
-    "image": "/instagram/08.jpg",
+    "image": "./instagram/08.jpg",
     "caption": "Anvi & Amol",
     "link": "https://www.instagram.com/p/C0VlUX5IUJj/?img_index=1"
   },
   {
     "id": 9,
-    "image": "/instagram/09.jpg",
+    "image": "./instagram/09.jpg",
     "caption": "TUKARAM & POOJA WEDDING",
     "link": "https://www.instagram.com/p/CtmFBbPypih/?img_index=1"
   },
   {
     "id": 10,
-    "image": "/instagram/10.jpg",
+    "image": "./instagram/10.jpg",
     "caption": "KETAN & AARTI",
     "link": "https://www.instagram.com/p/CyYWURHNics/?img_index=1"
   }
