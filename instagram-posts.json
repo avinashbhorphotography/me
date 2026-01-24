@@ -1,62 +1,62 @@
 [
   {
     "id": 1,
-    "image": "./instagram/01.jpg",
-    "caption": "Random clicks - Capturing stories",
-    "link": "https://www.instagram.com/_ab__photography_01__/"
+    "image": "/images/instagram/01.jpg",
+    "caption": "Architecture & light — exploring form and texture",
+    "link": "https://www.instagram.com/p/DQ4LsPDjPEp/?img_index=4"
   },
   {
     "id": 2,
-    "image": "./instagram/02.jpg",
-    "caption": "Model portrait session - Professional headshots",
+    "image": "/images/instagram/02.jpg",
+    "caption": "Clean headshot — professional portrait session",
     "link": "https://www.instagram.com/_ab__photography_01__/"
   },
   {
     "id": 3,
-    "image": "./instagram/03.jpg",
-    "caption": "Fashion photography",
-    "link": "https://www.instagram.com/_ab__photography_01__/"
+    "image": "/images/instagram/03.jpg",
+    "caption": "Editorial fashion — color, mood, and styling",
+    "link": "https://www.instagram.com/p/DSxLiSdjAvD/?img_index=1"
   },
   {
     "id": 4,
-    "image": "./instagram/04.jpg",
-    "caption": "Candid moments - Cultural moments",
-    "link": "https://www.instagram.com/_ab__photography_01__/"
+    "image": "/images/instagram/04.jpg",
+    "caption": "Candid moments — storytelling on the street",
+    "link": "https://www.instagram.com/p/CvFNs-Fy1nA/?img_index=1"
   },
   {
     "id": 5,
-    "image": "./instagram/05.jpg",
-    "caption": "Creative photography - Cultural moments",
+    "image": "/images/instagram/05.jpg",
+    "caption": "Creative portrait — texture and expression",
     "link": "https://www.instagram.com/_ab__photography_01__/"
   },
   {
     "id": 6,
-    "image": "./instagram/06.jpg",
-    "caption": "Candid moments - Capturing emotions",
+    "image": "/images/instagram/06.jpg",
+    "caption": "Emotion in frame — candid and timeless",
     "link": "https://www.instagram.com/_ab__photography_01__/"
   },
   {
     "id": 7,
-    "image": "./instagram/07.jpg",
-    "caption": "Shwetali Wedding",
+    "image": "/images/instagram/07.jpg",
+    "caption": "Wedding highlights — moments that matter",
     "link": "https://www.instagram.com/_ab__photography_01__/"
   },
   {
     "id": 8,
-    "image": "./instagram/08.jpg",
-    "caption": "Anvi & Amol",
+    "image": "/images/instagram/08.jpg",
+    "caption": "Couple portrait — intimate connection",
     "link": "https://www.instagram.com/p/C0VlUX5IUJj/?img_index=1"
   },
   {
     "id": 9,
-    "image": "./instagram/09.jpg",
-    "caption": "TUKARAM & POOJA WEDDING",
+    "image": "/images/instagram/09.jpg",
+    "caption": "Wedding ceremony — candid celebration",
     "link": "https://www.instagram.com/p/CtmFBbPypih/?img_index=1"
   },
   {
     "id": 10,
-    "image": "./instagram/10.jpg",
-    "caption": "KETAN & AARTI",
-    "link": "https://www.instagram.com/_ab__photography_01__/"
+    "image": "/images/instagram/10.jpg",
+    "caption": "Couple portraits — quiet moments together",
+    "link": "https://www.instagram.com/p/DBiKL4wyvvI/?img_index=5"
   }
 ]
