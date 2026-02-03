@@ -3,90 +3,105 @@
     "id": 1,
     "image": "/images/instagram/01.jpg",
     "caption": "Architecture & light — exploring form and texture",
-    "link": "https://www.instagram.com/p/DQ4LsPDjPEp/?img_index=4"
+    "link": "https://www.instagram.com/p/DQ4LsPDjPEp/?img_index=4",
+    "type": "image"
   },
   {
     "id": 2,
     "image": "/images/instagram/02.jpg",
     "caption": "Clean headshot — professional portrait session",
-    "link": "https://www.instagram.com/_ab__photography_01__/"
+    "link": "https://www.instagram.com/_ab__photography_01__/",
+    "type": "image"
   },
   {
     "id": 3,
     "image": "/images/instagram/03.jpg",
     "caption": "Editorial fashion — color, mood, and styling",
-    "link": "https://www.instagram.com/p/DSxLiSdjAvD/?img_index=1"
+    "link": "https://www.instagram.com/p/DSxLiSdjAvD/?img_index=1",
+    "type": "image"
   },
   {
     "id": 4,
     "image": "/images/instagram/04.jpg",
     "caption": "Candid moments — storytelling on the street",
-    "link": "https://www.instagram.com/p/CvFNs-Fy1nA/?img_index=1"
+    "link": "https://www.instagram.com/p/CvFNs-Fy1nA/?img_index=1",
+    "type": "image"
   },
   {
     "id": 5,
     "image": "/images/instagram/05.jpg",
     "caption": "Creative portrait — texture and expression",
-    "link": "https://www.instagram.com/_ab__photography_01__/"
+    "link": "https://www.instagram.com/_ab__photography_01__/",
+    "type": "image"
   },
   {
     "id": 6,
     "image": "/images/instagram/06.jpg",
     "caption": "Emotion in frame — candid and timeless",
-    "link": "https://www.instagram.com/_ab__photography_01__/"
+    "link": "https://www.instagram.com/_ab__photography_01__/",
+    "type": "image"
   },
   {
     "id": 7,
     "image": "/images/instagram/07.jpg",
     "caption": "Wedding highlights — moments that matter",
-    "link": "https://www.instagram.com/_ab__photography_01__/"
+    "link": "https://www.instagram.com/_ab__photography_01__/",
+    "type": "image"
   },
   {
     "id": 8,
     "image": "/images/instagram/08.jpg",
     "caption": "Couple portrait — intimate connection",
-    "link": "https://www.instagram.com/p/C0VlUX5IUJj/?img_index=1"
+    "link": "https://www.instagram.com/p/C0VlUX5IUJj/?img_index=1",
+    "type": "image"
   },
   {
     "id": 9,
     "image": "/images/instagram/09.jpg",
     "caption": "Wedding ceremony — candid celebration",
-    "link": "https://www.instagram.com/p/CtmFBbPypih/?img_index=1"
+    "link": "https://www.instagram.com/p/CtmFBbPypih/?img_index=1",
+    "type": "image"
   },
   {
     "id": 10,
     "image": "/images/instagram/10.jpg",
     "caption": "Couple portraits — quiet moments together",
-    "link": "https://www.instagram.com/p/DBiKL4wyvvI/?img_index=5"
+    "link": "https://www.instagram.com/p/DBiKL4wyvvI/?img_index=5",
+    "type": "image"
   },
   {
     "id": 11,
     "image": "/images/instagram/11.jpg",
     "caption": "Couple portraits — quiet moments together",
-    "link": "https://www.instagram.com/p/DUGXkneDAxY/?img_index=5"
+    "link": "https://www.instagram.com/p/DUGXkneDAxY/?img_index=5",
+    "type": "image"
   },
   {
     "id": 12,
     "image": "/images/instagram/12.jpeg",
     "caption": "Couple portraits — moments that matter",
-    "link": "https://www.instagram.com/p/CuuOvtPyqCe/?img_index=2"
+    "link": "https://www.instagram.com/p/CuuOvtPyqCe/?img_index=2",
+    "type": "image"
   },
   {
     "id": 13,
     "image": "/images/instagram/13.jpeg",
     "caption": "Couple portraits — intimate connection",
-    "link": "https://www.instagram.com/p/Cn9fEO2N-RS/?img_index=2"
+    "link": "https://www.instagram.com/p/Cn9fEO2N-RS/?img_index=2",
+    "type": "image"
   },
   {
     "id": 14,
     "image": "/images/instagram/14.jpeg",
     "caption": "Couple portraits — candid celebration",
-    "link": "https://www.instagram.com/p/CjdM1aHNFP8/?img_index=2"
+    "link": "https://www.instagram.com/p/CjdM1aHNFP8/?img_index=2",
+    "type": "image"
   },
   {
     "id": 15,
     "image": "/images/instagram/15.jpeg",
     "caption": "Couple portraits — timeless memories",
-    "link": "https://www.instagram.com/p/CjaftdsD8ae/?img_index=3"
+    "link": "https://www.instagram.com/p/CjaftdsD8ae/?img_index=3",
+    "type": "image"
   }
 ]

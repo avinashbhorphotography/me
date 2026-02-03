@@ -1,0 +1,76 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "AB Photo Studio",
+  "description": "Professional photography services specializing in weddings, pre-weddings, engagements, baby shoots, fashion, and maternity photography",
+  "url": "https://www.abphotostudio.in",
+  "logo": "https://www.abphotostudio.in/images/logo.png",
+  "image": "https://www.abphotostudio.in/images/hero-bg.jpg",
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "IN"
+  },
+  "serviceType": "Photography Services",
+  "areaServed": "India",
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Photography Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Wedding Photography",
+          "description": "Complete wedding photography coverage including pre-wedding shoots"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Pre-wedding Photography",
+          "description": "Creative pre-wedding photo shoots in various locations"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Engagement Photography",
+          "description": "Beautiful engagement photo sessions"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Baby Photography",
+          "description": "Adorable baby photo shoots and newborn photography"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Fashion Photography",
+          "description": "Professional fashion and portfolio photography"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Maternity Photography",
+          "description": "Beautiful maternity photo shoots for expecting parents"
+        }
+      }
+    ]
+  },
+  "sameAs": ["https://www.instagram.com/abphotostudio", "https://www.facebook.com/abphotostudio"],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+91-8655515173",
+    "contactType": "customer service",
+    "availableLanguage": "English"
+  }
+}
