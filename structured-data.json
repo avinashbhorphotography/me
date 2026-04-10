@@ -4,7 +4,7 @@
   "name": "AB Photo Studio",
   "description": "Professional photography services specializing in weddings, pre-weddings, engagements, baby shoots, fashion, and maternity photography",
   "url": "https://www.abphotostudio.in",
-  "logo": "https://www.abphotostudio.in/images/logo.png",
+  "logo": "https://www.abphotostudio.in/images/logo.svg",
   "image": "https://www.abphotostudio.in/images/hero-bg.jpg",
   "address": {
     "@type": "PostalAddress",
@@ -66,7 +66,10 @@
       }
     ]
   },
-  "sameAs": ["https://www.instagram.com/abphotostudio", "https://www.facebook.com/abphotostudio"],
+  "sameAs": [
+    "https://www.instagram.com/_ab__photography_01__/",
+    "https://www.facebook.com/_ab__photography_01__/"
+  ],
   "contactPoint": {
     "@type": "ContactPoint",
     "telephone": "+91-8655515173",
