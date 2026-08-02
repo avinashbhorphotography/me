@@ -40,10 +40,10 @@
       ]
     },
     {
-      "name": "Contact Me",
-      "short_name": "Contact",
-      "description": "Get in touch for bookings",
-      "url": "/?section=contact",
+      "name": "Client Stories",
+      "short_name": "Stories",
+      "description": "Browse client photobooks and stories",
+      "url": "/stories",
       "icons": [
         {
           "src": "/android-chrome-192x192.png",
@@ -52,10 +52,22 @@
       ]
     },
     {
-      "name": "Services",
-      "short_name": "Services",
-      "description": "View photography services",
-      "url": "/?section=services",
+      "name": "Investment",
+      "short_name": "Investment",
+      "description": "View pricing and packages",
+      "url": "/#investment",
+      "icons": [
+        {
+          "src": "/android-chrome-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Contact Me",
+      "short_name": "Contact",
+      "description": "Get in touch for bookings",
+      "url": "/#contact",
       "icons": [
         {
           "src": "/android-chrome-192x192.png",
