@@ -1,0 +1,38 @@
+{
+  "featured": [
+    "/images/wedding/Harshad & neha/04.jpg",
+    "/images/wedding/Mansi & Yash/02.jpg",
+    "/images/pre-wedding/Ketan & Raksha/04.jpg",
+    "/images/wedding/Suyog & vyakhya/01.jpg",
+    "/images/pre-wedding/Ankit & Dhanashree/19.jpg",
+    "/images/pre-wedding/Ajay & jyoti/05.jpg",
+    "/images/fashion/Kartiki/Kartiki 05.jpg",
+    "/images/fashion/Rajeshwari/Rajeshwari 04.jpg"
+  ],
+  "instagram": [
+    {
+      "link": "https://www.instagram.com/p/DbAQ9CxDfo7/",
+      "image": "/images/instagram/post-01.jpg"
+    },
+    {
+      "link": "https://www.instagram.com/p/Da11VInjNPq/",
+      "image": "/images/instagram/post-02.jpg"
+    },
+    {
+      "link": "https://www.instagram.com/p/DWyyrb_DJl7/",
+      "image": "/images/instagram/post-03.jpg"
+    },
+    {
+      "link": "https://www.instagram.com/p/DXezSF9Hyj-/",
+      "image": "/images/instagram/post-04.jpg"
+    },
+    {
+      "link": "https://www.instagram.com/p/DUGXkneDAxY/",
+      "image": "/images/instagram/post-05.jpg"
+    },
+    {
+      "link": "https://www.instagram.com/p/DTILPDXDAfb/",
+      "image": "/images/instagram/post-06.jpg"
+    }
+  ]
+}

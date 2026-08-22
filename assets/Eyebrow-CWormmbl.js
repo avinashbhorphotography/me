@@ -1,1 +1,0 @@
-import{j as s}from"./ui-BHcc0_Sz.js";import{c as e}from"./index-B2nwpCiw.js";const p=({children:t,className:r})=>s.jsx("p",{className:e("text-[11px] tracking-[0.3em] uppercase text-brand",r),children:t});export{p as E};
