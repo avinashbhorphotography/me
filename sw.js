@@ -94,7 +94,7 @@ function isAuthenticated(request) {
   const authHeader = request.headers.get('X-Image-Auth');
   const sessionToken = request.headers.get('X-Session-Token');
   const protectedFlag = request.headers.get('X-Protected-Image');
-  const referer = request.headers.get('Referer') || request.headers.get('referer');
+  const referer = request.referrer || request.headers.get('Referer');
   const userAgent = request.headers.get('User-Agent') || '';
 
   // Check if this looks like a download attempt (based on user agent patterns)
@@ -119,6 +119,10 @@ function isAuthenticated(request) {
 
   // For image requests, allow from app but block direct access
   if (request.url.includes('/images/')) {
+    if (request.destination === 'image' && request.mode !== 'navigate') {
+      return true;
+    }
+
     // Check referer to ensure it's from our site
     const hasValidReferer =
       referer &&
@@ -262,7 +266,7 @@ self.addEventListener('fetch', event => {
 
         // Check authentication for protected images
         const protectedFlag = request.headers.get('X-Protected-Image');
-        const referer = request.headers.get('Referer') || request.headers.get('referer');
+        const referer = request.referrer || request.headers.get('Referer');
         console.log('Service Worker: Image request', {
           url,
           mode: request.mode,
