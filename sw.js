@@ -10,8 +10,8 @@ const IMAGES_CACHE = 'images-v11';
 const STATIC_ASSETS = [
   '/',
   '/index.html',
-  '/manifest.json',
-  '/favicon.svg',
+  '/site.webmanifest.json',
+  '/favicon.ico',
   '/apple-touch-icon.png',
 ];
 
