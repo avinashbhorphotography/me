@@ -52,10 +52,10 @@
       ]
     },
     {
-      "name": "Investment",
-      "short_name": "Investment",
+      "name": "Pricing",
+      "short_name": "Pricing",
       "description": "View pricing and packages",
-      "url": "/#investment",
+      "url": "/#pricing",
       "icons": [
         {
           "src": "/android-chrome-192x192.png",
