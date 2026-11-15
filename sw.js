@@ -2,9 +2,9 @@
 // This intercepts image requests and adds protection headers
 // Also handles caching for better performance
 
-const CACHE_NAME = 'image-protection-v11';
-const STATIC_CACHE = 'static-v11';
-const IMAGES_CACHE = 'images-v11';
+const CACHE_NAME = 'image-protection-v12';
+const STATIC_CACHE = 'static-v12';
+const IMAGES_CACHE = 'images-v12';
 
 // Assets to cache immediately
 const STATIC_ASSETS = [
@@ -21,6 +21,8 @@ const ALLOWED_ORIGINS = [
   'https://www.abphotostudio.in',
   'http://localhost:8080',
   'http://localhost:5173',
+  'http://localhost:3000',
+  'http://localhost:4173',
 ];
 
 // Check if request is for a protected image
@@ -216,8 +218,9 @@ self.addEventListener('fetch', event => {
   const { request } = event;
   const url = request.url;
 
-  // Handle static assets with cache-first strategy
-  if (STATIC_ASSETS.some(asset => url.endsWith(asset))) {
+  // Handle static assets with cache-first strategy. Navigations are excluded so page HTML
+  // (every URL ends in '/') falls through to the network-first branch below.
+  if (request.mode !== 'navigate' && STATIC_ASSETS.includes(new URL(url).pathname)) {
     event.respondWith(
       caches.match(request).then(response => {
         return (
